@@ -6,7 +6,9 @@ Ubuntu 20.04
 make
 ```
 ### Execute
+```
 ./server
+```
 ### descriptiom
 The server open a socket on port 8080 to accept the request, then response the message after processing the request.
 ### warn 
