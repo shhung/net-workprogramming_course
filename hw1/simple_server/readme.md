@@ -11,7 +11,7 @@ make
 ```
 ./server
 ```
-### descriptiom
+### description
 The server open a socket on port 8080 to accept the request, then response the message after processing the request.
 ### warn 
 - Need to creat a directory "upload" to store the file which was uploaded.
